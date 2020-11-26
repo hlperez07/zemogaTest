@@ -1,0 +1,9 @@
+{
+    "baseUrl": "[Main URL]",
+    "env": {
+        "username": "[turner username]", 
+        "password": "[turner pass]"   
+    },
+
+    "retries": 3
+}
